@@ -1,1 +1,1 @@
-The Spruce Mail website, a free private email service.
+# The Spruce Mail website, a free private email service.
